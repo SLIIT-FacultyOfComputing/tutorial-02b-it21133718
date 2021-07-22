@@ -1,1 +1,1 @@
-Enter a Number : Factorial of is 840320
+Enter a value for n Enter a value for r nCr = 28
